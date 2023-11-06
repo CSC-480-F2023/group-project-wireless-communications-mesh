@@ -3,7 +3,7 @@
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment for our
-community include:
+team include:
 
 * Working on the project in a timely and effective manner.
 * Communicating what is going on if there are unexspected events.
@@ -12,7 +12,7 @@ Examples of unacceptable behavior include:
 
 * Complete scilence when regarding responsibilites or deadlines.
 * Not doing the things they agreed to do.
-* activly trying to create problems with the code repositories.
+* Actively trying to create problems with the code repositories.
 
 ### 1. Warning
 
